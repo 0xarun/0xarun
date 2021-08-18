@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Arunkumar, you can find me under this username *0xarun*.
+
+Student B.tech IT👨‍🎓
+
+Presently focusing into CTF's and Active Directory❤️
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xarun&show_icons=true&theme=radical)
+
 <!--
 **0xarun/0xarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
