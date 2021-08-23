@@ -4,7 +4,7 @@
 
 - Student B.tech IT👨‍🎓
 
-- Presently focusing into CTF's and Active Directory❤️
+- Presently focusing on CTF's and Active Directory❤️
 
 - Check my [Write-ups(notes)](https://github.com/0xarun/Write-ups) repo for CTF writeups.
 
