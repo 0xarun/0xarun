@@ -2,7 +2,7 @@
 
 - I'm Arunkumar, you can find me under this username *0xarun*.
 
-- Student B.tech IT👨‍🎓
+- Student B.E CSE🎓
 
 - Presently focusing on CTF's and Active Directory❤️
 
