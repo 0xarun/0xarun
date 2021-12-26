@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm Arunkumar, you can find me under this username *0xarun*.
+- I'm Arunkumar aka *0xarun*.
 
 - Student B.E CSE🎓
 
