@@ -10,8 +10,6 @@
 
 - To reach me [Twitter](https://twitter.com/0xarun), [Instagram](https://instagram.com/0xarun), [Linkedin](https://www.linkedin.com/in/0xarun/)
 
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xarun&show_icons=true&theme=radical)
-
 ### My Blog for CTF's and other IT stuff's
 ## https://0xarun.github.io
 
