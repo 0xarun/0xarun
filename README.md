@@ -2,8 +2,6 @@
 
 <p align="center">
   <em>Security Researcher</em><br>
-  <a href="https://0xarun.github.io" target="_blank"><strong>Read my Blog</strong></a> • 
-  <a href="https://0xarun.vercel.app" target="_blank"><strong>Visit my Portfolio</strong></a>
 </p>
 
 ---
