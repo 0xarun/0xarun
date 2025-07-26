@@ -10,4 +10,4 @@ working on things that feel useful. trying to stay curious.
 
 > just here to build. break. learn. repeat.
 
-[0xarun.vercel.app](https://0xarun.vercel.app) · [X](https://twitter.com/0xarunn)
+[0xarun.vercel.app](https://0xarun.vercel.app) · [X](https://x.com/0xarunn)
